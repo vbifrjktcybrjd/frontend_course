@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+table {
+    border: 1px solid black;
+}
+
+.q {
+    background-color: rgb(91, 177, 5);
+    color: #ffffff;
+}
+
+.qw {
+    background-color: rgb(247, 222, 190);
+}
+
+.qwe {
+    background-color: rgb(250, 232, 208);
+}

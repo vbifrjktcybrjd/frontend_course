@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.image-1
+{
+    width: 200px;
+    height: 150px;
+    border: 1px solid black;
+    margin: 50px auto;
+}
+
+.image-2{
+    width: 200px;
+    height: 150px;
+    border: 1px solid black;
+    margin: 50px auto;
+}
+
+@media screen and (orientation:landscape){
+    .block-1{
+        background-color: black;
+    }
+    .block-3{
+        color: blue;
+    }
+}
+
+@media screen and (orientation:portrait){
+    .block-1{
+        background-color: blue;
+    }
+
+    .block-2{
+        background-color: green;
+    }
+    .block-3{
+        text-decoration:underline;
+        color: black;
+    }
+}
+
+
+@media (width <= 1280px){
+
+}
+
+@media (width <= 768px){
+
+}

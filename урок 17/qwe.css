@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div1{
+    width: 80%;
+    height: auto;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: rgb(34, 255, 0);
+}
+
+.div1 img{
+    width: 400px;
+    max-width: 100%;
+    min-width: 300px;
+    height: auto;
+}
+
+.block{
+    width: 200px;
+    border: 1px solid black;
+    height: 200px;
+}
+
+.block1{
+    background-color: brown;
+    position: relative;
+    top: 50px;
+    left: 100px;
+    z-index: 2;
+}
+
+.block2{
+    position: relative;
+    background-color: rgb(19, 40, 0);
+    bottom: 50px;
+    z-index: 1;
+}
+
+.block3{
+    background-color: rgb(20, 105, 171);
+    position: relative;
+    bottom: 270px;
+    left: 150px;
+    z-index: 3;
+}

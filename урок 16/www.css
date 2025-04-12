@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{  margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #5d5dea;
+}
+
+.primer{
+    width: 80%;
+    padding: 20px;
+    margin: 50px auto;
+}
+
+.primer1{
+
+}
+
+.primer1 img{
+    width: 400px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 5px;
+}
+
+.primer1 p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    font-size: 17px;
+}
+
+.primer2{
+    height: 240px;
+}
+
+.primer2_1, .primer2_2, .primer2_3{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+.primer2_1{
+    float: left;
+    background-color:blue ;
+}
+
+.primer2_2{
+    float: left;
+    background-color: plum;
+}
+
+.primer2_3{
+    float: left;
+    background-color:greenyellow ;
+}
+
+.news{
+    width: 70%;
+    height: auto;
+    float: left;
+}
+
+.news_navbar{
+    width: 25%;
+    height: auto;  
+    float: right;
+}
+
+.new{
+    width: 100%;
+    height: auto;
+    border-radius:  24px;
+    padding: 20px;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    font-family: "Roboto",serif;
+    box-shadow: 9px 9px 68px 4px rgba(34,60,80,0.2);
+}
+
+.new img{
+    width: 100%;
+    border-radius: 24px;
+}
+
+.new_title{
+    margin: 15px 0 10px;
+}
+
+.new_date{
+    color: #5a5757;
+    margin-bottom: 15px;
+}
+
+.new_description{
+    margin-bottom: 15px;
+}
+
+.new_other{
+    border: none;
+    padding: 16px 28px;
+    background-color: #5d5dea;
+    color: #ffffff;
+    border-radius: 24px;
+    font-family: "Roboto",serif;
+}
+
+.no{
+    width: 100%;
+}

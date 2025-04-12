@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.menu {
+    background-color: #00746d;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 80px;
+    width: 100%;
+    z-index: 10;
+    position: fixed;
+    margin-bottom: 80px;
+}
+
+.menu_logo {
+    margin-left: 10%;
+    margin-top: 20px;
+    font-size: 35px;
+    float: left;
+    color: beige;
+    font-weight: 700;
+}
+
+
+.menu_item {
+    width: 40%;
+    margin-top: 20px;
+    margin-left: 500px;
+    float: left;
+}
+
+.menu_item a {
+    color: white;
+    text-decoration: none;
+    margin-right: 30px;
+
+}
+
+
+body {
+    min-height: 2000px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.qqq {
+    color: #ffffff;
+    font-size: 10px;
+    position: relative;
+    top: 60px;
+    right: 130px;
+}
+
+.foto {
+    padding-top: 80px;
+    width: 100%;
+    height: 500px;
+    background: url(o.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.qqw {
+    color: #d30101;
+}
+
+.asd {
+    color: #ffffff;
+}
+
+.q {
+    font-size: 50px;
+    position: relative;
+    left: 400px;
+    top: 60px;
+
+}
+
+.w {
+    font-size: 50px;
+    position: relative;
+    left: 750px;
+    top: 2px;
+
+}
+
+.e {
+    position: relative;
+    left: 500px;
+
+}
+
+.r {
+    display: flex;
+    justify-content: space-between;
+}
+
+.t {
+    position: relative;
+    left: 700px;
+}
+
+.zxcvb {
+    font-weight: 900;
+    margin-left: 20%;
+    margin-top: 100px;
+    margin-bottom: -50px;
+}
+
+.qwer {
+    position: relative;
+    left: 40%;
+    top: 40px;
+}
+
+
+.sadic {
+    display: flex;
+    font-size: 17px;
+}
+
+.jhfrgfudhcslgdfuksj {
+    color: blue;
+    margin-top: 250px;
+    margin-left: -800px;
+    margin-bottom: 300px;
+    padding-top: -100px ;
+}
+
+.rot {
+    display: flex;
+    position: relative;
+    width: 100%;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+#coco {
+    background-color: #00746d;
+    border-radius: 4px;
+    font-size: 50px;
+    color: #ffffff;
+}
+
+.rot p:last-child {
+    color: #00d3c5;
+}
+
+.r-head {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+    margin-top: -200px;
+    font-size: 20px;
+}
+
+.qwe{
+    color: #00d3c5;
+}

@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.menu {
+    background-color: rgb(0, 116, 109);
+    font-family: Arial, Helvetica, sans-serif;
+    height: 80px;
+    width: 100%;
+    z-index: 10;
+    position: fixed;
+}
+
+.menu_logo {
+    margin-left: 10%;
+    margin-top: 20px;
+    font-size: 35px;
+    float: left;
+    color: beige;
+    font-weight: 700;
+}
+
+
+.menu_item {
+    width: 40%;
+    margin-top: 30px;
+    margin-left: 50px;
+    float: left;
+    font-weight: 700;
+
+}
+
+
+.menu_item a {
+    color: white;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+.menu_buttons {
+    float: left;
+    margin-top: 20px;
+    margin-left: 50px;
+    color: rgb(0, 116, 109);
+    
+    
+}
+
+.menu_buttons button {
+    border: none;
+    padding: 8px 16px;
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-right: 10px;
+    font-weight: 700;
+    color: rgb(0, 116, 109);
+    border-radius: 5px;
+}
+
+.menu_buttons button:hover {
+    background-color: rgb(0, 116, 109);
+    color: #ffffff;
+}
+
+body {
+    min-height: 2000px;
+}
+
+.e{
+    width: 200px;
+    height: 400px;
+    border-radius: 8px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 2px 2px 5px 0px
+}
+
+.rri{
+    position: relative;
+    top: 400px;
+    left: 270px;
+}
+
+.rrl{
+    left: 490px;
+    position: relative;
+
+}
+
+.rrr{
+    position: relative;
+    left: 710px;
+    bottom: 400px;
+}
+
+.e img{
+    width: 180px;
+    height: 180px;
+}
+
+.q{
+    color: rgb(0, 116, 109);
+    font-weight: 700;
+
+}
+
+.e p{
+    margin: 10px;
+    
+}

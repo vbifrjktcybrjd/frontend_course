@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.menu {
+    background-color: #EDE8E2;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 80px;
+    width: 100%;
+    z-index: 10;
+    margin-bottom: 80px;
+}
+
+.menu_logo {
+    margin-left: 10%;
+    margin-top: 20px;
+    font-size: 35px;
+    float: left;
+    color: #000000;
+    font-weight: 700;
+}
+
+
+.menu_item {
+    width: 40%;
+    margin-top: 10px;
+    margin-left: 100px;
+    float: left;
+}
+
+.menu_item a {
+    color: #000000;
+    text-decoration: none;
+    margin-right: 30px;
+
+}
+
+
+body {
+    min-height: 2000px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #EDE8E2;
+}
+
+.qqq {
+    color: #466045;
+    font-size: 20px;
+    position: relative;
+    top: 50px;
+    right: 196px;
+}
+
+.tele {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.asd {
+    color: #3e853c;
+}
+
+.a {
+    margin-left: 140px;
+}
+
+.az {
+    margin-left: 140px;
+    margin-top: 30px;
+}
+
+.azx{
+    margin-left: 140px;
+    margin-top: 60px;
+}
+
+.azx button{
+    border: none;
+    background-color: #21a31c;
+    color: #ffffff;
+    border-radius: 40px;
+}
+
+.azx button:first-child{
+    width: 300px;
+    height:50px;
+}
+
+.azx button:last-child{
+    width: 50px;
+    height:50px;
+    font-size: 25px;
+}
+
+.azxc{
+    margin-left: 900px;
+    margin-top: -300px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.azxc p{
+    margin-top: 150px;
+    font-size: 40px;
+    color: gray;
+}
+
+.azxc img{
+    border-radius: 10px;
+    border:  5px solid grey;
+}

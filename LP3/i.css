@@ -1,0 +1,64 @@
+.q {
+    background-color: aqua;
+
+}
+
+.w {
+    background-color: blue;
+}
+
+.r {
+    width: 300px;
+    height: 300px;
+    background: rgb(71, 71, 255);
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.t {
+    width: 300px;
+    height: 300px;
+    background: rgb(71, 71, 255);
+    margin-left: 360px;
+    margin-top: -300px;
+}
+
+.y {
+    width: 300px;
+    height: 300px;
+    background: rgb(71, 71, 255);
+    margin-left: 690px;
+    margin-top: -300px;
+}
+
+.a {
+    width: 200px;
+    height: 200px;
+    background: rgb(71, 71, 255);
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.s {
+    width: 200px;
+    height: 200px;
+    background: rgb(71, 71, 255);
+    margin-left: 250px;
+    margin-top: -200px;
+}
+
+.d {
+    width: 200px;
+    height: 200px;
+    background: rgb(71, 71, 255);
+    margin-left: 500px;
+    margin-top: -200px;
+}
+
+.f {
+    width: 200px;
+    height: 200px;
+    background: rgb(71, 71, 255);
+    margin-left: 750px;
+    margin-top: -200px;
+}

@@ -1,0 +1,29 @@
+body{
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.q1{
+    width: 400px;
+    height: 400px;
+    background-color:rgb(0, 252, 13);
+    border-width: 6px;
+    border-style: solid;
+    border-color: blue;
+}
+
+.q2{
+    width: 400px;
+    height: 400px;
+    background-image: url(1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px dashed royalblue;}
+
+.q3{
+    width: 400px;
+    height: 400px;
+    background:linear-gradient(to botom,white,blue,red);
+    border: 4px dotted green;
+}

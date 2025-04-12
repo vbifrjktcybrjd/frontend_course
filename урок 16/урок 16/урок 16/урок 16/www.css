@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.primer{
+    width: 80%;
+    padding: 20px;
+    border: 1px solid black;
+    margin: 50px auto;
+}
+
+.primer1{
+
+}
+
+.primer1 img{
+    width: 400px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 5px;
+}
+
+.primer1 p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    font-size: 17px;
+}
+
+.primer2{
+    height: 240px;
+}
+
+.primer2_1, .primer2_2, .primer2_3{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+.primer2_1{
+    float: left;
+    background-color:blue ;
+}
+
+.primer2_2{
+    float: left;
+    background-color: plum;
+}
+
+.primer2_3{
+    float: left;
+    background-color:greenyellow ;
+}
