@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #EEEEEE;
+}
+
+.menu {
+    background-color: #fFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 80px;
+    width: 80%;
+}
+
+.menu_logo {
+    margin-left: 10%;
+    margin-top: 20px;
+    font-size: 35px;
+    float: left;
+    color: #DD5650;
+    font-weight: 700;
+}
+
+
+.menu_item {
+    width: 40%;
+    margin-top: -40px;
+    margin-left: 500px;
+    float: left;
+}
+
+.menu_item a {
+    color: #DD5650;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+.menu_item button{
+    background-color: #EF5251;
+    border: none;
+    color: #fFFFFF;
+    height: 30px;
+    width: 90px;
+    margin-left: 200px;
+}
+
+.cvb{
+    display: flex;
+    justify-content: center;
+}
+
+.wefr{
+    background-color: #fFFFFF;
+    width: 80%;
+    height: 800px;
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.zxc{
+    border: 2px solid #CDCDCD;
+    width: 200px;
+}
+
+.wefr p{
+    font-size: 13px;
+    margin-top: 130px;
+    margin-left: -140px;
+}
+
+.wefr h1{
+    margin-left:130px;
+}
+
+
+.wefr img{
+    width: 400px;
+    height: 350px;
+    margin-top: 400px;
+    margin-left: -400px;
+}

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="dvjodvo.css">
+</head>
+
+<body>
+    <div class="rrr">
+        <div class="cvb">
+            <div class="menu">
+                <div class="menu_logo">
+                    <P>Header</P>
+                </div>
+                <div class="menu_item">
+                    <a href="#">Link</a>
+                    <a href="#">Link</a>
+                    <button>BUTTON</button>
+                </div>
+        </div>
+    </div>
+
+    <div class="wefr">
+        <h1>Main Content</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        <img src="i.webp" alt="###">
+        <div class="zxc"><h2>Sidebar</h2></div>
+    </div>
+</body>
+
+</html>
